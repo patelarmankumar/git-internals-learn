@@ -1,1 +1,3 @@
 Title of file2.txt : FILE2.TXT
+This line added into file2.txt (after tertiary branch of couse).
+------------------
