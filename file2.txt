@@ -1,4 +1,2 @@
 Title of file2.txt : FILE2.TXT
-
-This line is added from tertiary branch.
-
+This line added into file2.txt after resolving conflicts from secondary and tertiary branch.
